@@ -4,8 +4,8 @@
 
 - 🐧：781369524
 - 📧：781369524@qq.com
-- 🏫:华南理工大学
+- 🏫：华南理工大学
 
-<h6 align="right">我永远喜欢啊能👉</h2>
+<h6 align="right">我永远喜欢啊能👉</h6>
 
 <img align='center' src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=2018lb&layout=compact"  width="480">
